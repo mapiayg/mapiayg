@@ -2,8 +2,8 @@
 
 Hi, my name is Miguel Ángel Piay García.
 
-### I'm currently pursuing a
-[Bachelor's degree in Techniques for Software Application Development](https://studies.uoc.edu/en/bachelors-degrees/software-development/presentation)
+### I'm currently pursuing a degree in
+[Computer Engineering](https://estudios.uoc.edu/es/grados/ingenieria-informatica/presentacion)
 at UOC university.
 
 ### While at High School
