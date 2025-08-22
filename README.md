@@ -1,9 +1,13 @@
-Hi, my name is **Miguel Ángel Piay García**.
+👋 Hi, I'm **Miguel Ángel Piay García**.
 
-I'm currently pursuing a degree in **Computer Engineering at UOC University**.
+🎓 Currently pursuing a degree in **Computer Engineering** at **UOC University**.
 
-My passion for technology began in high school, where I explored programming and physical computing through both text-based and block-based languages, developing several hands-on projects that fueled my curiosity for software and systems.
+💻 Passionate about **Artificial Intelligence, distributed computing and scalable architectures**.
+My long-term goal is to grow into a **technology architect**, building innovative solutions at the intersection of intelligent systems and emerging digital ecosystems — from **AI-driven applications** to **immersive online platforms**.
 
-My goal is to grow as a **software engineer** with a focus on **Artificial Intelligence, distributed computing and scalable architectures**, and ultimately evolve into a **technology architect** designing innovative solutions at the intersection of intelligent systems and emerging digital ecosystems, from AI-driven applications to immersive online platforms.
+🚀 Background:
 
-Outside of technology, I enjoy spending time with friends, playing video games and practising fighting sports.
+* Started in high school exploring **programming & physical computing** with both text-based and block-based languages.
+* Built several hands-on projects that sparked my curiosity for **software and systems**.
+
+🎮 Outside of tech: I enjoy spending time with friends, playing video games and practising fighting sports.
