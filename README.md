@@ -1,4 +1,4 @@
-Hi, my name is **Miguel Ángel Piay García.**
+Hi, my name is **Miguel Ángel Piay García**.
 
 I'm currently pursuing a degree in **Computer Engineering at UOC University**.
 
